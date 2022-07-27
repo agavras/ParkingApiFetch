@@ -1,0 +1,1 @@
+Nom du parking	| Nbr de place (rouge si < 30)	| Ouvert (Pastille Vert ou Rouge)
